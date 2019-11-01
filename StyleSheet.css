@@ -1,0 +1,33 @@
+﻿button 
+{
+    background-color : mediumaquamarine;
+}
+
+ul li 
+{
+    background: antiquewhite;
+    font-size: 22px;
+    list-style-type: none;
+}
+
+ul li:hover 
+{
+    background: peru;
+}
+
+.check
+{
+    float : left;   
+}
+
+.checked
+{
+    text-decoration : line-through;
+    text-decoration-color : orangered;
+}
+
+.x {
+    float : right;
+    background-color: indianred;
+}
+
